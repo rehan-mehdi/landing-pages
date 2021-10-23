@@ -1,2 +1,2 @@
 # landing-pages
-Email Landing Pages
+Email Landing Page
